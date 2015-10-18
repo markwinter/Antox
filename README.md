@@ -7,8 +7,7 @@ Antox is an Android 2.3+ client for Tox. It aims to bring the full multimedia su
 
 ###Current development
 
-- Adding A/V
-- Improving the design of several features
+I am too busy with my final year of university to continue working on Antox. You can find a maintained fork with new features being added [here](https://github.com/subliun/Antox).
 
 ###Getting Antox
 
